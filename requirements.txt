@@ -1,0 +1,8 @@
+requests==2.32.5
+Pillow==11.3.0
+
+# Windows Media Session (Now Playing)
+winrt-runtime==3.2.1
+winrt-Windows.Foundation==3.2.1
+winrt-Windows.Media.Control==3.2.1
+winrt-Windows.Storage.Streams==3.2.1
